@@ -7,7 +7,7 @@ function App() {
   return (
     <div>
       <h1>Count-Down Timer</h1>
-      <Counter initialCount={60} />
+      <Counter initialCount={60}/>
     </div>
   );
 }
